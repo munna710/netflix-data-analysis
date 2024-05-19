@@ -44,7 +44,7 @@ The dataset has the following columns:
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/netflix-data-analysis.git
+    https://github.com/munna710/netflix-data-analysis.git
     ```
 
 2. Install the required Python packages:
